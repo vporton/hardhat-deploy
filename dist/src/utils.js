@@ -381,7 +381,6 @@ function mergeABIs(check, ...abis) {
                     return v.name === fragment.name; // TODO fallback and receive hanlding
                 }
             });
-            console.log('fragment.name:', fragment.name);
             if (foundSameSig && fragment.name !== 'supportsInterface') {
                 if (check) {
                     if (fragment.type === 'function') {
