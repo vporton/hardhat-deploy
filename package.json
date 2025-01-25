@@ -51,7 +51,7 @@
     "@ethersproject/abi": "^5.0.2",
     "@ethersproject/abstract-signer": "^5.0.2",
     "@ethersproject/address": "^5.0.2",
-    "@ethersproject/bignumber": "^5.0.5",
+    "@ethersproject/bignumber": "^5.7.0",
     "@ethersproject/contracts": "^5.0.2",
     "@ethersproject/providers": "^5.0.5",
     "@ethersproject/solidity": "^5.0.2",
